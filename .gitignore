@@ -2,7 +2,7 @@
 boreal-env-conda/
 
 # Ignore Python virtual environments
-boreal-env/
+boreal-env2/
 .venv/
 venv/
 
