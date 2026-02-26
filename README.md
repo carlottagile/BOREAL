@@ -1,4 +1,4 @@
-## **Selenium-Based Automation for Atmospheric Data Retrieval**
+## **Selenium-Based Automation for Running the BOREAL**
 
 ---
 
