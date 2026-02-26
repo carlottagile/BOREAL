@@ -3,20 +3,22 @@
 ---
 
 ### **Description**
-This project automates the retrieval of atmospheric data from the BOREAL website using Selenium. The script:
-1. Configures parameters for extinction, backscatter, and depolarization.
+This project automates the retrieval of atmospheric data from the BOREAL website using Selenium. There are different scripts to perform different tasks.
+All scripts:
+1. Configures parameters for extinction coefficient, backscatter coefficient, and particle linear depolarization ratio.
 2. Run all the possible combinations of input parameters.
-3. Generates multiple realizations to simulate retrieval uncertainty.
 4. Saves the results for further analysis.
-5. Generate a custom Decision Tree to evaluate input parameters importance.
+
+Additional scripts are useful to further process the downloaded data.
+
+The project also includes a script to generate a custom Decision Tree.
 
 ---
 
 ### **Features**
 - Automates data input and retrieval.
-- Generates uncertainty realizations.
 - Saves results in a structured directory.
-- Allows customization of input values and error margins.
+- Allows customization of input values and errors.
 
 ---
 
