@@ -1,4 +1,4 @@
-## **Selenium-Based Automation for Running the BOREAL**
+## **Selenium-Based Automation for Running BOREAL**
 
 ---
 
